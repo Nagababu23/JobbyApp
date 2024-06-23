@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.LinkSec {
+  text-decoration: none;
+}
+.cardSec {
+  background-color: #202020;
+  color: white;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.com_logo {
+  margin-right: 10px;
+  width: 45px;
+}
+.head_sec {
+  height: 20%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.rat {
+  color: rgb(229, 229, 3);
+}
+.rating {
+  display: flex;
+  align-items: center;
+  margin-top: 3px;
+}
+.sec_sec {
+  display: flex;
+  justify-content: space-between;
+}
+.sec_sec h4 {
+  color: white;
+}
+.map_job {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  margin-top: 10px;
+}
+.map_job p {
+  margin-left: 5px;
+}
+.ic {
+  color: white;
+  margin-left: 10px;
+}
+.descr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.pp {
+  line-height: 1.6;
+}

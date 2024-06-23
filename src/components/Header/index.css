@@ -1,0 +1,31 @@
+.navbar {
+  background-color: #202020;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+}
+li {
+  margin-right: 20px;
+}
+li button {
+  border: none;
+  background-color: transparent;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 18px;
+}
+.logout {
+  background-color: #4f46e5;
+  border: none;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 7px 10px 7px 10px;
+  cursor: pointer;
+}

@@ -1,0 +1,73 @@
+.bgJobItemDetail {
+  background-color: black;
+  height: 100%;
+}
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.load {
+  margin-top: 50vh;
+  margin-bottom: 50vh;
+}
+.cardPart {
+  padding: 20px;
+  color: white;
+}
+.cardDetailSec {
+  background-color: #202020;
+  color: white;
+  margin-top: 20px;
+  border-radius: 5px;
+  width: 80%;
+  padding: 20px;
+  margin: 0 auto; /* Center align horizontally */
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+ul li {
+  display: flex;
+  align-items: center;
+  width: 30%;
+  margin-top: 20px;
+}
+ul li img {
+  width: 40px;
+  margin-right: 5px;
+}
+.life_at {
+  display: flex;
+  justify-content: space-between;
+}
+.life_at img {
+  width: 30%;
+  margin-left: 20px;
+}
+.bottom_s {
+  width: 80%;
+  margin: 0 auto;
+}
+.similar_card {
+  background-color: #202020;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px 20px 0 0;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.bottom_s ul {
+  display: flex;
+}
+.descrip {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}

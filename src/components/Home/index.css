@@ -1,0 +1,35 @@
+.HomePage {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  background-size: cover;
+  height: 100vh;
+  font-family: Roboto;
+}
+
+.main_part {
+  padding: 20px;
+  width: 50vw;
+}
+.inner_sec {
+  margin-top: 20vh;
+  color: white;
+  margin-left: 10vh;
+}
+.inner_sec h1 {
+  font-weight: bold;
+  font-size: 45px;
+}
+.inner_sec p {
+  font-size: 18px;
+  margin-bottom: 40px;
+  margin-top: 20px;
+  line-height: 1.6;
+}
+.logouti {
+  background-color: #4f46e5;
+  border: none;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 10px 15px 10px 15px;
+  cursor: pointer;
+}
